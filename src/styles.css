@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+@import './assets/css/reset.css';
+
+@font-face {
+    font-family: Anton;
+    src: url('./assets/fonts/Anton-Regular.ttf') format('truetype');
+}
