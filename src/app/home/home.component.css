@@ -309,6 +309,9 @@ fill: #4831D4;
     .thunbnail{
         left: 2%;
     }
+    .blue{
+        height: 400px;
+    }
 }
 
 @media (max-width: 388px) {
