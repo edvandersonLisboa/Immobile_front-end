@@ -98,7 +98,7 @@
     visibility: visible;
 }
 .container-work-text{
-    font-family: fantasy;
+    font-family: Anton;
     color: #ccf381;
     text-align: center;
     position: absolute;
@@ -109,12 +109,12 @@
 }
 .label-name{
     top: 173px;
-    font-family: fantasy;
+    font-family: Anton;
     font-size: 2.4em;
 }
 .iam{
     top: 122px;
-    font-family: fantasy;
+    font-family: Anton;
     font-size: 2.4em;
     color: #CCF381;
 }
@@ -191,7 +191,7 @@ color:#4831D4
 .menu{
     position: absolute;
     left: 20px;
-    font-family: fantasy;
+    font-family: Anton;
     color: #ccf381;
     font-size: 1.5em;
     top: 20px;
@@ -264,7 +264,7 @@ fill: #4831D4;
         fill:#4831D4;
     }
     .container-work-text{
-        font-family: fantasy;
+        font-family: Anton;
         color: #4831d4;
         top: 410px;
         width: 100%;
