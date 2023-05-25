@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+a ideia e construir um aplicação de Immobiliari utilizando angular, para praticar e treinar minhas habilidades, com usuario adm, interface de login, e cadastro e filtro de imoveis.
+
